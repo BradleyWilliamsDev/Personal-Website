@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero-element{
+    background-color: darkcyan;
+    height: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    font-family: 'Lemon', serif;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), darkcyan, rgba(0, 0, 0, 0));
+}
+
+.profile-img{
+    border-radius: 50%;
+}
+
+.feature-img{
+    border-radius: 50%;
+    background-color: white;
+}
+
